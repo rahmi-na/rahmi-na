@@ -9,7 +9,7 @@ I'm Rahmi Nurazizah from Indonesia, and i hope found new innovations for future.
 * 💻 HTML, CSS, JS, JAVA, PHP
 * 🖼️ Figma
 
-<img align='right' src='https://media3.giphy.com/media/H3BownFihDztS6QNRI/giphy_s.gif?cid=ecf05e477xwrrz9k9d2zg6xiegt0yu0hww93bsfotv06wc9h&rid=giphy_s.gif&ct=s' width='200"'>
+<img align='right' src='https://media3.giphy.com/media/H3BownFihDztS6QNRI/giphy.gif?cid=ecf05e477xwrrz9k9d2zg6xiegt0yu0hww93bsfotv06wc9h&rid=giphy.gif&ct=s' width='200"'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmi-na)](https://github.com/anuraghazra/github-readme-stats)
 
