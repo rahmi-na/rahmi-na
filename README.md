@@ -1,6 +1,5 @@
-### Hi there 👋
+## Hi there 👋 I'm Rahmi 
 
-# Hi there, I'm Rahmi 
 I'm Rahmi Nurazizah from Indonesia, and i hope found new innovations for future. I really enjoy learning languages and frameworks like React and Laravel, as well as work in WordPress. I also interest to UI & UX and design in general. 
 
 ## Skills and Experience
@@ -10,8 +9,7 @@ I'm Rahmi Nurazizah from Indonesia, and i hope found new innovations for future.
 * 💻 HTML, CSS, JS, JAVA, PHP
 * 🖼️ Figma
 
-<!-- <img align='right' src='https://giphy.com/embed/Wj7lNjMNDxSmc' width='200"'> -->
-<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>
+<img align='right' src='https://media1.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif?cid=ecf05e47fog6xor1nu6sysjxe1ulykc0z8rh0opogprhzw6r&rid=giphy.gif&ct=g' width='200"'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmi-na)](https://github.com/anuraghazra/github-readme-stats)
 
