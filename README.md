@@ -10,8 +10,8 @@ I'm Rahmi Nurazizah from Indonesia, and i hope found new innovations for future.
 
 <img align='right' src='https://media3.giphy.com/media/H3BownFihDztS6QNRI/giphy.gif?cid=ecf05e477xwrrz9k9d2zg6xiegt0yu0hww93bsfotv06wc9h&rid=giphy.gif&ct=s' width='300"' >
 
+![Rahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmi-na&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmi-na&layout=compact&theme=buefy)](https://github.com/rahmi-na/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmi-na&count_private=true)
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
