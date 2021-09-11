@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://raw.githubusercontent.com/gillyhuga/gillyhuga/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/gillyhuga/gillyhuga/master/wave.gif" width="30px">
 
 I'm Rahmi Nurazizah from Indonesia, and i hope found new innovations for future. I really enjoy learning languages and frameworks like React and Laravel, as well as work in WordPress. I also interest to UI & UX and design in general. 
 
